@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'label' => 'Kommentare',
+    'placeholder' => 'Kommentar eingeben…',
+    'no_comments_yet' => 'Noch keine Kommentare.',
+    'user_avatar_alt' => 'Benutzeravatar',
+    'commented_at' => 'Kommentiert am :datetime',
+    'edited_at' => 'Bearbeitet am :datetime',
+    'edited' => 'bearbeitet',
+    'delete_comment_heading' => 'Kommentar löschen',
+    'delete_comment_body' => 'Möchten Sie diesen Kommentar wirklich löschen? Diese Aktion kann nicht rückgängig gemacht werden.',
+    'cancel' => 'Abbrechen',
+    'delete' => 'Löschen',
+    'save' => 'Speichern',
+    'comment' => 'Kommentar',
+    'add_reaction' => 'Reaktion hinzufügen',
+    'show_more' => 'Mehr anzeigen',
+    'notifications' => 'Benachrichtigungen',
+    'unsubscribe' => 'Abmelden',
+    'subscribe' => 'Abonnieren',
+    'subscribers' => 'Abonnenten',
+    'more' => 'mehr|mehr',
+    'notification_subscribed' => 'Benachrichtigungen abonniert',
+    'notification_unsubscribed' => 'Benachrichtigungen abbestellt',
+    'notification_comment_deleted' => 'Kommentar gelöscht',
+];

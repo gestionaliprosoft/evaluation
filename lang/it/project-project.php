@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'Edit Project' => 'Modifica progetto',
+    'View Project' => 'Visualizza progetto',
+    'Attach To Contract' => 'Associa a contratto',
+    'Attach To Opportunity' => 'Associa a opportunità',
+    'Attach To Transaction' => 'Associa a transazione',
+    'Project Has Been Associated' => 'Il progetto è stato associato',
+    'Detach From Opportunity' => 'Scollega da opportunità',
+    'Detach From Contract' => 'Scollega da contratto',
+    'Detach From Transaction' => 'Scollega da transazione',
+    'Project Has Been Detached' => 'Il progetto è stato scollegato',
+
+    'Start Date' => 'Data inizio',
+    'End Date' => 'Data fine',
+    'Effective End Date' => 'Data fine effettiva',
+    'Status' => 'Stato',
+    'Progress' => 'Avanzamento',
+    'Project Value' => 'Valore del progetto',
+    'Total Projects' => 'Totale progetti',
+    'To Start' => 'Da iniziare',
+    'On Progress' => 'In corso',
+    'Completed' => 'Completato',
+    'Editable' => 'Modificabile',
+    'Process' => 'Da elaborare',
+    'Processing' => 'In elaborazione',
+    'Final Step' => 'Fase finale',
+    'Archived' => 'Archiviato',
+    'Sort' => 'Ordina',
+];

@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'Associate User' => 'Associate User',
+    'Chosen User will be Associated with this Tenant' => 'The Selected User will be associated with this Tenant',
+    'Add User' => 'Add User',
+    'Intervention Tipology' => 'Intervention Type',
+    'Ticket Has Been Associated' => 'The Ticket has been Associated',
+    'Ticket Has Been Detached' => 'The Ticket has been Detached',
+    'Ticket Quantity' => 'No. Tickets',
+    'Price per Ticket' => 'Price/Ticket',
+    'Tickets cost per Intervention' => 'Tickets/Intervention',
+    'Tickets Requested' => 'No. Interventions',
+    'Tickets Consumed' => 'Tickets Consumed',
+    'Ticket quantity total' => 'Total Tickets',
+    'Package Tickets Duration' => 'Duration (days)',
+    'Ticket Package' => 'Ticket Package',
+    'Tickets in Package' => 'Package Tickets',
+    'Purchased on' => 'Purchased on',
+    'Expire on' => 'Expires on',
+    'Remain' => 'Remaining',
+    'Expired' => 'Expired',
+    'days' => 'days',
+    'Quantity' => 'Qty',
+
+    'Editable' => 'Editable',
+    'Final Step' => 'Final Step',
+    'Archived' => 'Archived',
+    'Sort' => 'Sort',
+    'Interventions' => 'Intervention(s)',
+    'Complete Form' => 'Complete Form',
+];

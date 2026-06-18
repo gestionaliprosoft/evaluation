@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'Edit Project' => 'Edit Project',
+    'View Project' => 'View Project',
+    'Attach To Contract' => 'Attach To Contract',
+    'Attach To Opportunity' => 'Attach To Opportunity',
+    'Attach To Transaction' => 'Attach To Transaction',
+    'Project Has Been Associated' => 'Project Has Been Associated',
+    'Detach From Opportunity' => 'Detach From Opportunity',
+    'Detach From Contract' => 'Detach From Contract',
+    'Detach From Transaction' => 'Detach From Transaction',
+    'Project Has Been Detached' => 'Project Has Been Detached',
+
+    'Start Date' => 'Start Date',
+    'End Date' => 'End Date',
+    'Effective End Date' => 'Effective End Date',
+    'Status' => 'Status',
+    'Progress' => 'Progress',
+    'Project Value' => 'Project Value',
+    'Total Projects' => 'Total Projects',
+    'To Start' => 'To Start',
+    'On Progress' => 'In Progress',
+    'Completed' => 'Completed',
+    'Editable' => 'Editable',
+    'Process' => 'To Process',
+    'Processing' => 'Processing',
+    'Final Step' => 'Final Step',
+    'Archived' => 'Archived',
+    'Sort' => 'Sort',
+];

@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'Associate User' => 'Benutzer verknüpfen',
+    'Chosen User will be Associated with this Tenant' => 'Der ausgewählte Benutzer wird diesem Tenant zugeordnet',
+    'Add User' => 'Neuen Benutzer hinzufügen',
+    'Intervention Tipology' => 'Einsatztyp',
+    'Ticket Has Been Associated' => 'Das Ticket wurde verknüpft',
+    'Ticket Has Been Detached' => 'Das Ticket wurde getrennt',
+    'Ticket Quantity' => 'Anzahl Tickets',
+    'Price per Ticket' => 'Preis/Ticket',
+    'Tickets cost per Intervention' => 'Tickets/Einsatz',
+    'Tickets Requested' => 'Anzahl Einsätze',
+    'Tickets Consumed' => 'Verbrauchte Tickets',
+    'Ticket quantity total' => 'Gesamttickets',
+    'Package Tickets Duration' => 'Dauer (Tage)',
+    'Ticket Package' => 'Ticket‑Paket',
+    'Tickets in Package' => 'Tickets im Paket',
+    'Purchased on' => 'Gekauft am',
+    'Expire on' => 'Ablaufdatum',
+    'Remain' => 'Verbleibend',
+    'Expired' => 'Abgelaufen',
+    'days' => 'Tage',
+    'Quantity' => 'Menge',
+
+    'Editable' => 'Bearbeitbar',
+    'Final Step' => 'Letzter Schritt',
+    'Archived' => 'Archiviert',
+    'Sort' => 'Sortierung',
+    'Interventions' => 'Einsatz/Einsätze',
+    'Complete Form' => 'Vollständiges Formular',
+];
